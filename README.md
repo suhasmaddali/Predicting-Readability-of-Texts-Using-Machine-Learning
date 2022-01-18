@@ -15,6 +15,8 @@ There are texts of different difficulty levels being created and there could be 
 
 With machine learning and deep learning, it is possible to predict the readability of the text and understand some of the important features that determine the difficulty respectively. Therefore, we have to consider a few important parameters when determining the difficulty of different machine learning models respectively. We have to take into consideration the difficulty of the text along with other important features such as the number of syllables and the difficulty of the words in order to determine the overall level of the text. 
 
+Natural Language Processing (NLP)
+
 We have to use the natural language processing (NLP) when we are dealing with the text respectively. Since we have a text, we have to use various processing techniques so that they are considered into forms that could be easy for machine learning purposes. Once those values are converted into vectors, we are going to use them by giving them to different machine learning and deep learning models with different set of layers respectively.
 
 We would be working with different machine learning and deep learning algorithms and understand some of the important metrics that are needed for the problem at hand. We see that since the target that we are going to be predicting is continuous, we are going to be using the regression machine learning techinques so that we get continuous output.
