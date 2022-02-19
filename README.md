@@ -11,7 +11,7 @@ When we look at the present age, we see a lot of articles and reading materials 
 
 Since there are a lot of publications and articles being published everyday, it sometimes becomes tedious and difficult for the librarians to go over the materials and classify them based on their level of comprehension. As a result, a high difficulty text might be given to a child who is just about 10 years of age. On the contrary, a low difficulty text might be given to a highly educated individual who might easily understand the text that lacks much knowledge.
 
-
+Therefore, it would be of great help to librarians and readers if there are algorithms that could classify the text based on the difficulty without these people having to go through the documents. As a result, this reduces the manpower needed to read the books and also saves a lot of time and effort on the part of humans. 
 
 ## Machine Learning and Deep Learning 
 
