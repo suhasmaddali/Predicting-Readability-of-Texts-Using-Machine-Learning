@@ -9,8 +9,9 @@ When we look at the present age, we see a lot of articles and reading materials 
 
 ![](https://github.com/suhasmaddali/Images/blob/main/patrick-tomasso-Oaqk7qqNh_c-unsplash.jpg)
 
-Since there are a lot of publications and articles being published everyday, it sometimes becomes tedious and difficult for the librarians to go over the materials and classify them based on their level of comprehension. 
-There are texts of different difficulty levels being created and there could be different age groups exposed to these texts. Sometimes a high difficulty text might be given to a child who is just about 10 years of age. On the contrary, a low difficulty text might be given to a highly educated individual who might easily understand the text that lacks much knowledge. Therefore, it becomes important to understand and predict the readability of the text and the difficulty associated with it so that different level texts could be given to different individuals based on their difficulty respectively. 
+Since there are a lot of publications and articles being published everyday, it sometimes becomes tedious and difficult for the librarians to go over the materials and classify them based on their level of comprehension. As a result, a high difficulty text might be given to a child who is just about 10 years of age. On the contrary, a low difficulty text might be given to a highly educated individual who might easily understand the text that lacks much knowledge.
+
+
 
 ## Machine Learning and Deep Learning 
 
