@@ -9,6 +9,8 @@
 ### Problem Statement 
 When we look at the present age, we see a __lot of articles__ and __reading materials__ available by different __authors__ and __bloggers__. As a result, we see text all around us and there is a lot to do with the text. Since there are more and more books and articles being produced everyday, it becomes important that one uses the text information and understand them so that they would be able to make the best use of it. 
 
+When there are millions of documents and publications introducted, it is often not possible for an average reader to classify them based on their difficulty. This is because one would have to go over the materials fully and understand it before assigning the difficulty of the text. Therefore, we should think of ways at which we could automate this system which would classify the documents into categories.
+
 ![](https://github.com/suhasmaddali/Images/blob/main/patrick-tomasso-Oaqk7qqNh_c-unsplash.jpg)
 
 Since there are a lot of __publications__ and __articles__ being published everyday, it sometimes becomes tedious and difficult for the __librarians__ to go over the materials and classify them based on their level of comprehension. As a result, a high difficulty text might be given to a child who is just about 10 years of age. On the contrary, a low difficulty text might be given to a highly educated individual who might easily understand the text that lacks much knowledge.
