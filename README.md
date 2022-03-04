@@ -21,9 +21,9 @@ With machine learning and deep learning, it is possible to predict the readabili
 
 ## Natural Language Processing (NLP)
 
-We have to use the natural language processing (NLP) when we are dealing with the text respectively. Since we have a text, we have to use various processing techniques so that they are considered into forms that could be easy for machine learning purposes. Once those values are converted into vectors, we are going to use them by giving them to different machine learning and deep learning models with different set of layers respectively.
+We have to use the __natural language processing (NLP)__ when we are dealing with the text respectively. Since we have a text, we have to use various processing techniques so that they are considered into forms that could be easy for machine learning purposes. Once those values are converted into vectors, we are going to use them by giving them to different machine learning and deep learning models with different set of layers respectively.
 
-We would be working with different machine learning and deep learning algorithms and understand some of the important metrics that are needed for the problem at hand. We see that since the target that we are going to be predicting is continuous, we are going to be using the regression machine learning techinques so that we get continuous output.
+We would be working with different __machine learning__ and __deep learning algorithms__ and understand some of the important metrics that are needed for the problem at hand. We see that since the target that we are going to be predicting is continuous, we are going to be using the regression machine learning techinques so that we get continuous output.
 
 ## 👉 Directions to download the repository and run the notebook 
 
