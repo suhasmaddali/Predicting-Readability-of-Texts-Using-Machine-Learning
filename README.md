@@ -30,6 +30,9 @@ Therefore, it would be of great help to librarians and readers if there are algo
 * Once those values are converted into vectors, we are going to use them by giving them to different machine learning and deep learning models with different set of layers respectively.
 * We would be working with different __machine learning__ and __deep learning algorithms__ and understand some of the important metrics that are needed for the problem at hand. * We see that since the target that we are going to be predicting is continuous, we are going to be using the regression machine learning techinques so that we get continuous output.
 
+## Outcomes
+* TFIDF Word2Vec Vecttorizer performed the best in terms of accurately predicting the difficulty of various texts. 
+
 ## 👉 Directions to download the repository and run the notebook 
 
 This is for the Washington Bike Demand Prediction repository. But the same steps could be followed for this repository. 
