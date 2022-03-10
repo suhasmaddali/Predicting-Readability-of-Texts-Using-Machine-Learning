@@ -36,7 +36,7 @@ Therefore, it would be of great help to librarians and readers if there are algo
 
 ## Future Scope 
 * The best model (__Gradient Boosted Decision Trees__) could be integrated in real-time in Office tools such as __Microsoft Word__ and __Microsoft Presentation__ so that an user can get an indication of the difficulty of his/her sentences.
-* Additional text information could be added from other sources such as __Wikipedia__ to further reduce the mean absolute error of the models.  
+* Additional text information could be added from other sources such as __Wikipedia__ to further reduce the __mean absolute error__ of the models.  
 
 ## 👉 Directions to download the repository and run the notebook 
 
