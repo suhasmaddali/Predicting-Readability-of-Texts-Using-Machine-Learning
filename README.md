@@ -6,7 +6,7 @@
 +  The dataset was taken from https://www.kaggle.com/c/commonlitreadabilityprize/data. 🙂
 ```
 
-### Problem Statement 
+## Problem Statement 
 When we look at the present age, we see a __lot of articles__ and __reading materials__ available by different __authors__ and __bloggers__. As a result, we see text all around us and there is a lot to do with the text. Since there are more and more books and articles being produced everyday, it becomes important that one uses the text information and understand them so that they would be able to make the best use of it. 
 
 When there are __millions of documents__ and __publications__ introducted, it is often not possible for an average reader to classify them based on their difficulty. This is because one would have to go over the materials fully and understand it before assigning the difficulty of the text. Therefore, we should think of ways at which we could automate this system which would classify the documents into categories.
