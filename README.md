@@ -35,7 +35,7 @@ Therefore, it would be of great help to librarians and readers if there are algo
 * __Gradient Boosted Decision Trees (GBDT)__ was performing the best in terms of the __mean absolute__ and __mean squared error__ of predicting the difficult of texts.
 
 ## Future Scope 
-* The best model (__Gradient Boosted Decision Trees__) could be integrated in real-time in Office tools such as Microsoft Word and Microsoft Presentation so that an user can get an indication of the difficulty of his/her sentences.
+* The best model (__Gradient Boosted Decision Trees__) could be integrated in real-time in Office tools such as __Microsoft Word__ and __Microsoft Presentation__ so that an user can get an indication of the difficulty of his/her sentences.
 
 ## 👉 Directions to download the repository and run the notebook 
 
