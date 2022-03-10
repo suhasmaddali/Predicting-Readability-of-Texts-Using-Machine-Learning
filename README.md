@@ -34,6 +34,9 @@ Therefore, it would be of great help to librarians and readers if there are algo
 * __TFIDF Word2Vec__ Vectorizer was the best encoding techinque which results in significant reduction in the __mean absolute error__ respectively. 
 * __Gradient Boosted Decision Trees (GBDT)__ was performing the best in terms of the __mean absolute__ and __mean squared error__ of predicting the difficult of texts.
 
+## Future Scope 
+* The best model (Gradient Boosted Decision Trees) could be implemented in real-time where a writer who is publishing a book can get insights about how difficult are his/her passages and thus make modifications. 
+
 ## 👉 Directions to download the repository and run the notebook 
 
 This is for the Washington Bike Demand Prediction repository. But the same steps could be followed for this repository. 
