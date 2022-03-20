@@ -32,7 +32,7 @@ Therefore, it would be of great help to librarians and readers if there are algo
 * We see that since the target that we are going to be predicting is continuous, we are going to be using the regression machine learning techinques so that we get continuous output.
 
 ## Outcomes
-* __TFIDF Word2Vec__ Vectorizer was the best encoding techinque which results in significant reduction in the __mean absolute error__ respectively. 
+* __TFIDF Word2Vec__ Vectorizer was the best encoding technique which results in significant reduction in the __mean absolute error__ respectively. 
 * __Gradient Boosted Decision Trees (GBDT)__ was performing the best in terms of the __mean absolute__ and __mean squared error__ of predicting the difficult of texts.
 
 ## Future Scope 
