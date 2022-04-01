@@ -40,6 +40,12 @@ There are various vectorizers that were used to convert a given text into a form
 * __Average Word2Vec (Glove Vectors)__
 * __Tfidf Word2Vec__
 
+## Machine Learning Models
+
+The output variable that we are considered is a continous variable, therefore, we should be using regression techniques for predictions. Below are some of the machine learning and deep learning models used to predict the difficulty of texts.
+
+
+
 
 ## Outcomes
 * __TFIDF Word2Vec__ Vectorizer was the best encoding technique which results in significant reduction in the __mean absolute error__ respectively. 
