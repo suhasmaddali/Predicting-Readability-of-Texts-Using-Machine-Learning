@@ -35,6 +35,11 @@ Therefore, it would be of great help to librarians and readers if there are algo
 
 There are various vectorizers that were used to convert a given text into a form of a numeric vector representation so that it could be given to machine learning models for predictions for difficulty. Below are some of the vectorizers used to convert a given text to vectors.
 
+* Count Vectorizer
+* Tfidf Vectorizer
+* Average Word2Vec (Glove Vectors)
+* Tfidf Word2Vec 
+
 
 ## Outcomes
 * __TFIDF Word2Vec__ Vectorizer was the best encoding technique which results in significant reduction in the __mean absolute error__ respectively. 
