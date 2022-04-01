@@ -44,14 +44,12 @@ There are various vectorizers that were used to convert a given text into a form
 
 The output variable that we are considered is a continous variable, therefore, we should be using regression techniques for predictions. Below are some of the machine learning and deep learning models used to predict the difficulty of texts.
 
-* Deep Neural Networks
-* Linear Regression
-* K - Neighbors Regressor
-* PLS Regression
-* Decision Tree Regressor
-* Gradient Boosting Regressor
-
-
+* __Deep Neural Networks__
+* __Linear Regression__
+* __K - Neighbors Regressor__
+* __PLS Regression__
+* __Decision Tree Regressor__
+* __Gradient Boosting Regressor__
 
 ## Outcomes
 * __TFIDF Word2Vec__ Vectorizer was the best encoding technique which results in significant reduction in the __mean absolute error__ respectively. 
