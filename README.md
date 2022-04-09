@@ -46,7 +46,7 @@ The output variable that we are considered is a continous variable, therefore, w
 
 * [__Deep Neural Networks__](https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPRegressor.html)
 * [__Linear Regression__](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html)
-* __K - Neighbors Regressor__
+* [__K - Neighbors Regressor__](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsRegressor.html)
 * __PLS Regression__
 * __Decision Tree Regressor__
 * __Gradient Boosting Regressor__
