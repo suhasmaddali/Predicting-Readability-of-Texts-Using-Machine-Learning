@@ -44,7 +44,7 @@ There are various vectorizers that were used to convert a given text into a form
 
 The output variable that we are considered is a continous variable, therefore, we should be using regression techniques for predictions. Below are some of the machine learning and deep learning models used to predict the difficulty of texts.
 
-* __Deep Neural Networks__
+* [__Deep Neural Networks__](https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPRegressor.html)
 * __Linear Regression__
 * __K - Neighbors Regressor__
 * __PLS Regression__
