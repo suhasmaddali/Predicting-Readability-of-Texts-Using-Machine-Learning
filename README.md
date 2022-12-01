@@ -7,13 +7,13 @@
 ```
 
 ## Problem Statement 
-When we look at the present age, we see a __lot of articles__ and __reading materials__ available by different __authors__ and __bloggers__. As a result, we see text all around us and there is a lot to do with the text. Since there are more and more books and articles being produced everyday, it becomes important that one uses the text information and understand them so that they would be able to make the best use of it. 
+When we look at the present age, we see a __lot of articles__ and __reading materials__ available by different __authors__ and __bloggers__. As a result, we see text all around us and there is a lot to do with the text. Since there are more and more books and articles being produced every day, it becomes important that one uses the text information and understands them so that they would be able to make the best use of it. 
 
-When there are __millions of documents__ and __publications__ introducted, it is often not possible for an average reader to classify them based on their difficulty. This is because one would have to go over the materials fully and understand it before assigning the difficulty of the text. Therefore, we should think of ways at which we could automate this system which would classify the documents into categories.
+When there are __millions of documents__ and __publications__ introduced, it is often not possible for an average reader to classify them based on their difficulty. This is because one would have to go over the materials fully and understand them before assigning the difficulty of the text. Therefore, we should think of ways in which we could automate this system which would classify the documents into categories.
 
 ![](https://github.com/suhasmaddali/Images/blob/main/patrick-tomasso-Oaqk7qqNh_c-unsplash.jpg)
 
-Since there are a lot of __publications__ and __articles__ being published everyday, it sometimes becomes tedious and difficult for the __librarians__ to go over the materials and classify them based on their level of comprehension. As a result, a high difficulty text might be given to a child who is just about 10 years of age. On the contrary, a low difficulty text might be given to a highly educated individual who might easily understand the text that lacks much knowledge.
+Since there are a lot of __publications__ and __articles__ being published every day, it sometimes becomes tedious and difficult for the __librarians__ to go over the materials and classify them based on their level of comprehension. As a result, a high-difficulty text might be given to a child who is just about 10 years of age. On the contrary, a low-difficulty text might be given to a highly educated individual who might easily understand the text but lacks much knowledge.
 
 Therefore, it would be of great help to librarians and readers if there are algorithms that could classify the text based on the difficulty without these people having to go through the documents. As a result, this reduces the manpower needed to read the books and also saves a lot of time and effort on the part of humans. 
 
@@ -27,9 +27,9 @@ Therefore, it would be of great help to librarians and readers if there are algo
 
 * We have to use the __natural language processing (NLP)__ when we are dealing with the text respectively.
 * Since we have a text, we have to use various processing techniques so that they are considered into forms that could be easy for machine learning purposes.
-* Once those values are converted into vectors, we are going to use them by giving them to different machine learning and deep learning models with different set of layers respectively.
+* Once those values are converted into vectors, we are going to use them by giving them to different machine learning and deep learning models with a different set of layers respectively.
 * We would be working with different __machine learning__ and __deep learning algorithms__ and understand some of the important metrics that are needed for the problem at hand. 
-* We see that since the target that we are going to be predicting is continuous, we are going to be using the regression machine learning techinques so that we get continuous output.
+* We see that since the target that we are going to be predicting is continuous, we are going to be using the regression machine learning techniques so that we get continuous output.
 
 ## Vectorizers
 
@@ -42,7 +42,7 @@ There are various vectorizers that were used to convert a given text into a form
 
 ## Machine Learning Models
 
-The output variable that we are considered is a continous variable, therefore, we should be using regression techniques for predictions. Below are some of the machine learning and deep learning models used to predict the difficulty of texts.
+The output variable that we are considering is a continuous variable, therefore, we should be using regression techniques for predictions. Below are some of the machine learning and deep learning models used to predict the difficulty of texts.
 
 * [__Deep Neural Networks__](https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPRegressor.html)
 * [__Linear Regression__](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html)
@@ -52,11 +52,11 @@ The output variable that we are considered is a continous variable, therefore, w
 * [__Gradient Boosting Regressor__](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingRegressor.html)
 
 ## Outcomes
-* __TFIDF Word2Vec__ Vectorizer was the best encoding technique which results in significant reduction in the __mean absolute error__ respectively. 
+* __TFIDF Word2Vec__ Vectorizer was the best encoding technique which results in a significant reduction in the __mean absolute error__ respectively. 
 * __Gradient Boosted Decision Trees (GBDT)__ were performing the best in terms of the __mean absolute__ and __mean squared error__ of predicting the difficulty of texts.
 
 ## Future Scope 
-* The best model (__Gradient Boosted Decision Trees__) could be integrated in real-time in Office tools such as __Microsoft Word__ and __Microsoft Presentation__ so that an user can get an indication of the difficulty of his/her sentences.
+* The best model (__Gradient Boosted Decision Trees__) could be integrated in real-time in Office tools such as __Microsoft Word__ and __Microsoft Presentation__ so that a user can get an indication of the difficulty of his/her sentences.
 * Additional text information could be added from other sources such as __Wikipedia__ to further reduce the __mean absolute error__ of the models.  
 
 ## 👉 Directions to download the repository and run the notebook 
