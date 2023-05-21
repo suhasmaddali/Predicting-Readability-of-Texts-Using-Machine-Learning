@@ -43,6 +43,8 @@ We find there are a few missing values in the data. There are missing values for
 
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/Data%20missing%20values%20plot.jpg"/>
 
+The histogram shows the distribution of output target values which are nothing but the difficulty scores. Since the difficulty scores are normalized, we have output in the form of floating point numbers. This shows the overall concentration of various difficulty scores across a range of values. 
+
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/Target%20output%20histogram%202.jpg"/>
 
 ## Vectorizers
