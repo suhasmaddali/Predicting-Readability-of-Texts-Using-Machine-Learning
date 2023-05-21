@@ -53,6 +53,8 @@ Wordcloud figures give a solid representation of the occurrence of various words
 
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/New%20features%20pairplot.jpg"/>
 
+<img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/heatmap%20correlation.jpg"/>
+
 ## Vectorizers
 
 There are various vectorizers that were used to convert a given text into a form of a numeric vector representation so that it could be given to machine learning models for predictions for difficulty. Below are some of the vectorizers used to convert a given text to vectors.
