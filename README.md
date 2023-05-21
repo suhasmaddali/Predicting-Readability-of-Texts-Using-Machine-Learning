@@ -39,6 +39,8 @@ In the dataframe, we find excerpts that contain the actual output or difficulty 
 
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/Input%20data%20head.jpg"/>
 
+We find there are a few missing values in the data. There are missing values for features such as url_legal and license features. Since these two features do not have a great impact in model predictions of difficulty scores, we can remove them. 
+
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/Data%20missing%20values%20plot.jpg"/>
 
 ## Vectorizers
