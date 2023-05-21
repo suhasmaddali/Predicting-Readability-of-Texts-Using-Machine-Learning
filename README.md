@@ -33,6 +33,8 @@ Therefore, it would be of great help to librarians and readers if there are algo
 
 ## Exploratory Data Analysis (EDA)
 
+In this section, we would focus our attention on the data itself and important visualizations that can have an positive impact on determining whether a text is readable or not. 
+
 ## Vectorizers
 
 There are various vectorizers that were used to convert a given text into a form of a numeric vector representation so that it could be given to machine learning models for predictions for difficulty. Below are some of the vectorizers used to convert a given text to vectors.
