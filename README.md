@@ -63,6 +63,8 @@ Further taking a look at the scatterplot between target and the number of senten
 
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/scatterplot%20sentences%20target.jpg"/>
 
+Taking a look at two features preprocessed_essay_length and num_of_lemmas, there seems to be a strong correlation between these features. There is an evidence of strong positive correlation when we also consider the heatmap presented above. 
+
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/scatterplot%20essay_length%20num_of_lemmas.jpg"/>
 
 ## Vectorizers
