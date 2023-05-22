@@ -55,6 +55,8 @@ We have added a good set of features that improve the predictive performance of 
 
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/New%20features%20pairplot.jpg"/>
 
+Heatmaps are known for their interpretability and can give us a good picture about the correlation between various features in our data. There is an inverse relationship between word length and target. Similarly, there is similar kind of relationship between lemma length and target as well. As discussed earlier, there is a direct relationship between the number of sentences and the difficulty of texts. 
+
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/heatmap%20correlation.jpg"/>
 
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/scatterplot%20sentences%20target.jpg"/>
