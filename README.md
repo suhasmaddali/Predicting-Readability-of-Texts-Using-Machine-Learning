@@ -69,13 +69,23 @@ Taking a look at two features preprocessed_essay_length and num_of_lemmas, there
 
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/scatterplot%20text_shortage%20word_length.jpg"/>
 
+__Neural Networks:__
+
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/Neural%20network%20predictions.jpg"/>
+
+__K Neighbos Regression:__
 
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/K%20neighbors%20regression%20predictions.jpg"/>
 
+__PLS Regression:__
+
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/PLS%20regression%20plot.jpg"/>
 
+__Decision Tree Regression:__
+
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/Decision%20tree%20regression%20plot.jpg"/>
+
+__Gradient Boosted Decision Tree Regression:__
 
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/Gradient%20boosted%20decision%20tree%20plot.jpg"/>
 
