@@ -51,6 +51,8 @@ Wordcloud figures give a solid representation of the occurrence of various words
 
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/Word%20distribution%20wordcloud.jpg"/>
 
+We have added a good set of features that improve the predictive performance of machine learning models. 
+
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/New%20features%20pairplot.jpg"/>
 
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/heatmap%20correlation.jpg"/>
