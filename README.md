@@ -51,7 +51,7 @@ Wordcloud figures give a solid representation of the occurrence of various words
 
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/Word%20distribution%20wordcloud.jpg"/>
 
-We have added a good set of features that improve the predictive performance of machine learning models. It could be seen from the pairplots that the number of sentences impact the difficulty score of the overall text. Higher the number of sentences, there is a higher likelihood that the text is difficult.
+We have added a good set of features that improve the predictive performance of machine learning models. It could be seen from the pairplots that the number of sentences impact the difficulty score of the overall text. Higher the number of sentences, there is a higher likelihood that the text is difficult. There are other set of features that could be explored with the help of these pair plots. 
 
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/New%20features%20pairplot.jpg"/>
 
