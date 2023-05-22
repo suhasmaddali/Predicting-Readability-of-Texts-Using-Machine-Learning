@@ -69,6 +69,8 @@ Taking a look at two features preprocessed_essay_length and num_of_lemmas, there
 
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/scatterplot%20text_shortage%20word_length.jpg"/>
 
+### Machine Learning Model Results 
+
 __Neural Networks:__
 
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/Neural%20network%20predictions.jpg"/>
