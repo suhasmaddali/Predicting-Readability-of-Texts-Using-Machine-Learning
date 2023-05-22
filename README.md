@@ -59,6 +59,8 @@ Heatmaps are known for their interpretability and can give us a good picture abo
 
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/heatmap%20correlation.jpg"/>
 
+Further taking a look at the scatterplot between target and the number of sentences, it is evident to a certain extent that the number of sentences have a positive relationship with text difficulty. While not have a strong correlation, it can have some impact on our model predictions. 
+
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/scatterplot%20sentences%20target.jpg"/>
 
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/scatterplot%20essay_length%20num_of_lemmas.jpg"/>
