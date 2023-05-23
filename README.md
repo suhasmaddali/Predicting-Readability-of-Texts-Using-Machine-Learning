@@ -91,7 +91,7 @@ __Decision Tree Regression:__ Looks like a decision tree regressor is not perfor
 
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/Decision%20tree%20regression%20plot.jpg"/>
 
-__Gradient Boosted Decision Tree Regression:__
+__Gradient Boosted Decision Tree Regression:__ This method does not work as well as the other models we have seen so far. The best performing model was the neural network architecture as it was better able to make predictions about the text difficulty. 
 
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/Gradient%20boosted%20decision%20tree%20plot.jpg"/>
 
