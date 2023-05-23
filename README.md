@@ -103,6 +103,8 @@ Here is a similar graph but the main difference is that it uses the TFIDF word2v
 
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/Neural%20network%20tfidf%20loss%20plot.jpg"/>
 
+These are the final predictions of the best model under the best encoding strategies for the text. Overall, there is a less scatter between the predictions and the actual data, indicating a good performance increase compared to the base models. 
+
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/Neural%20network%20predictions%20last.jpg"/>
 
 ## Vectorizers
