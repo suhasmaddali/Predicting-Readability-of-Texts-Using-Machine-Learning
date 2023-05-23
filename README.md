@@ -77,7 +77,7 @@ __Neural Networks:__ These models should be able to find complex patterns from t
 
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/Neural%20network%20predictions.jpg"/>
 
-__K Neighbors Regression:__
+__K Neighbors Regression:__ This model works with the help of the total neighbors which are defined earlier in order to perform the regression task of predicting the difficulty of texts. There is more scatter as compared to neural networks we have trained and defined earlier. 
 
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/K%20neighbors%20regression%20predictions.jpg"/>
 
