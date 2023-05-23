@@ -67,6 +67,8 @@ Taking a look at two features preprocessed_essay_length and num_of_lemmas, there
 
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/scatterplot%20essay_length%20num_of_lemmas.jpg"/>
 
+There seems to be a direct positive relationship between the feature text_shortage and word_length. This highlights that having higher length words leads to shortened form of words when applying strategies such as lemmatization and stemming. 
+
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/scatterplot%20text_shortage%20word_length.jpg"/>
 
 ### Machine Learning Model Results 
