@@ -99,6 +99,8 @@ We have chosen the neural network archicture we defined earlier as it was able t
 
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/Neural%20network%20word%20to%20vec%20loss%20plot.jpg"/>
 
+Here is a similar graph but the main difference is that it uses the TFIDF word2vec approach instead of just the word2vec. It has better performance overall as compared to just using word2vec as highlighted in the graph. 
+
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/Neural%20network%20tfidf%20loss%20plot.jpg"/>
 
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/Neural%20network%20predictions%20last.jpg"/>
