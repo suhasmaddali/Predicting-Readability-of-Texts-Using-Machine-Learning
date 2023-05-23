@@ -33,9 +33,9 @@ Therefore, it would be of great help to librarians and readers if there are algo
 
 ## Exploratory Data Analysis (EDA)
 
-In this section, we would focus our attention on the data itself and important visualizations that can have an positive impact on determining whether a text is readable or not. Exploratory data analysis (EDA) is an important step in machine learning where we can determine the important features in our data. In addition, we can determine if there are any outliers in the data or not. 
+In this section, our primary focus is on the data and essential visualizations that aid in assessing the readability of text. Exploratory Data Analysis (EDA) plays a crucial role in machine learning as it helps identify significant features within the data. Additionally, EDA allows us to detect the presence of any outliers.
 
-In the dataframe, we find excerpts that contain the actual output or difficulty in the dataframe. We have the output to be the target which is basically the difficult score for the excerpts.
+Within the dataframe, we observe excerpts that include the actual output or difficulty level. The target variable in this context is the difficulty score assigned to each excerpt.
 
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/Input%20data%20head.jpg"/>
 
