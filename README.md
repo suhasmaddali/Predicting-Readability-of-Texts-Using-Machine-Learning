@@ -83,11 +83,11 @@ __K Neighbors Regression:__ This model works with the help of the total neighbor
 
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/K%20neighbors%20regression%20predictions.jpg"/>
 
-__PLS Regression:__ This stands for Partial Least Squares (PLS) regression which used a combination of principal component analysis (PCA) AND multiple linear regression to generate predictions. The model performance is quite similar to neural networks. However, there is more scatter in this approach compared to neural networks. 
+__PLS Regression:__ This stands for Partial Least Squares (PLS) regression which uses a combination of principal component analysis (PCA) and multiple linear regression to generate predictions. The model performance is quite similar to neural networks. However, there is more scatter in this approach compared to neural networks. 
 
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/PLS%20regression%20plot.jpg"/>
 
-__Decision Tree Regression:__
+__Decision Tree Regression:__ Looks like a decision tree regressor is not performing as well as the other models we have tested earlier. While a decision tree regressor is a complex model capable of capturing important distinctions and insights, it was unable to perform optimally. Therefore, we should not always be relying on a few set of models for all the machine learning tasks as it would really depend on the dataset used for making the predictions. 
 
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/Decision%20tree%20regression%20plot.jpg"/>
 
