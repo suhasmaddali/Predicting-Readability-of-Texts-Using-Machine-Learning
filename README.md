@@ -81,7 +81,7 @@ __K Neighbors Regression:__
 
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/K%20neighbors%20regression%20predictions.jpg"/>
 
-__PLS Regression:__
+__PLS Regression:__ This stands for Partial Least Squares (PLS) regression which used a combination of principal component analysis (PCA) AND multiple linear regression to generate predictions. The model performance is quite similar to neural networks. However, there is more scatter in this approach compared to neural networks. 
 
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/PLS%20regression%20plot.jpg"/>
 
