@@ -73,7 +73,7 @@ Taking a look at two features preprocessed_essay_length and num_of_lemmas, there
 
 We will create graphs to visualize the relationship between the model's predictions and the true labels. These graphs provide an indication of the model's performance on the test data. If the points on the graph form a nearly straight line, it suggests that the model performed exceptionally well. Conversely, if the points are scattered and not aligned, it indicates that the model struggled to identify clear patterns in the data for accurate predictions.
 
-__Neural Networks:__ 
+__Neural Networks:__ These models should be able to find complex patterns from the data and highlight some important features that have predictive power. We tend to see that the model does a recent job of accurately predicting the difficulty of text. However, there are some predictions that are way higher or lower than the expected values. We might also test alternate models to determine the accuracy. 
 
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/Neural%20network%20predictions.jpg"/>
 
