@@ -95,6 +95,8 @@ __Gradient Boosted Decision Tree Regression:__ This method does not work as well
 
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/Gradient%20boosted%20decision%20tree%20plot.jpg"/>
 
+We have chosen the neural network archicture we defined earlier as it was able to perform optimally. In addition, we used different encoding techniques for the text which is word2vec approach. Below is a graph that shows the mean squared error and how it reduces as a result of epochs run on the neural network. The model seems to be slightly overfitting but it is doing a decent job. 
+
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/Neural%20network%20word%20to%20vec%20loss%20plot.jpg"/>
 
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/Neural%20network%20tfidf%20loss%20plot.jpg"/>
