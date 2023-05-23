@@ -71,39 +71,6 @@ There seems to be a direct positive relationship between the feature text_shorta
 
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/scatterplot%20text_shortage%20word_length.jpg"/>
 
-
-<img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/Input%20data%20head.jpg"/>
-
-The first image displays the data's head, indicating missing values in the "url_legal" and "license" features. Since these features have minimal impact on the difficulty score predictions, they can be safely removed.
-
-<img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/Data%20missing%20values%20plot.jpg"/>
-
-The second image presents a histogram showing the distribution of difficulty scores, which are normalized floating-point values. It demonstrates the concentration of scores across different ranges, providing an overview of the overall difficulty level distribution.
-
-<img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/Target%20output%20histogram%202.jpg"/>
-
-The third image showcases a wordcloud representing the occurrence of various words in the text corpus. The size of each word indicates its frequency. Common words like "one," "time," and "said" are observed, which aligns with the typical usage of "said" to denote dialogue in novels or books.
-
-<img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/Word%20distribution%20wordcloud.jpg"/>
-
-The fourth image exhibits pairplots that reveal the relationship between different features and the difficulty score. For example, it indicates that the number of sentences in a text has a direct impact on its difficulty. These pairplots allow exploration of other features as well.
-
-<img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/New%20features%20pairplot.jpg"/>
-
-The fifth image displays a heatmap illustrating the correlation between various features. It reveals inverse relationships between word length and the target variable, as well as lemma length and the target. Additionally, it confirms the positive relationship between the number of sentences and text difficulty.
-
-<img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/heatmap%20correlation.jpg"/>
-
-The sixth image focuses on the scatterplot between the target variable and the number of sentences. While the correlation is not extremely strong, it suggests that the number of sentences can influence the model predictions to some extent.
-
-<img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/scatterplot%20sentences%20target.jpg"/>
-
-The seventh image examines the correlation between two features: preprocessed_essay_length and num_of_lemmas. The scatterplot indicates a strong positive correlation, which aligns with the findings of the heatmap.
-
-<img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/scatterplot%20text_shortage%20word_length.jpg"/>
-
-Lastly, the eighth image highlights a positive relationship between the feature text_shortage and word_length. This suggests that longer words tend to be shortened through strategies like lemmatization and stemming.
-
 ### Machine Learning Model Results 
 
 We will create graphs to visualize the relationship between the model's predictions and the true labels. These graphs provide an indication of the model's performance on the test data. If the points on the graph form a nearly straight line, it suggests that the model performed exceptionally well. Conversely, if the points are scattered and not aligned, it indicates that the model struggled to identify clear patterns in the data for accurate predictions.
