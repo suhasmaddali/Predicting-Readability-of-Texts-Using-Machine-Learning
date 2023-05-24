@@ -39,7 +39,7 @@ Within the dataframe, we observe excerpts that include the actual output or diff
 
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/Input%20data%20head.jpg"/>
 
-We find there are a few missing values in the data. There are missing values for features such as url_legal and license features. Since these two features do not have a great impact in model predictions of difficulty scores, we can remove them. 
+In the dataset, we have identified some missing values in the features "url_legal" and "license." These two features have a minimal impact on the model's ability to predict difficulty scores. Therefore, we can safely eliminate them from our analysis.
 
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/Data%20missing%20values%20plot.jpg"/>
 
