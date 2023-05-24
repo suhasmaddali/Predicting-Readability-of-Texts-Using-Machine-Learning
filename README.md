@@ -79,31 +79,31 @@ __Neural Networks:__ Neural network models are capable of extracting intricate p
 
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/Neural%20network%20predictions.jpg"/>
 
-__K Neighbors Regression:__ This model works with the help of the total neighbors which are defined earlier in order to perform the regression task of predicting the difficulty of texts. There is more scatter as compared to neural networks we have trained and defined earlier. 
+__K Neighbors Regression:__ This model relies on the previously defined total neighbors to accomplish the regression task of predicting text difficulty. However, there is a higher degree of dispersion compared to the neural networks we have previously trained and established.
 
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/K%20neighbors%20regression%20predictions.jpg"/>
 
-__PLS Regression:__ This stands for Partial Least Squares (PLS) regression which uses a combination of principal component analysis (PCA) and multiple linear regression to generate predictions. The model performance is quite similar to neural networks. However, there is more scatter in this approach compared to neural networks. 
+__PLS Regression:__ The approach utilized here is Partial Least Squares (PLS) regression, which combines principal component analysis (PCA) with multiple linear regression to make predictions. The performance of this model closely resembles that of neural networks. Nevertheless, when compared to neural networks, there is a slightly higher level of variability in the results obtained using this approach.
 
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/PLS%20regression%20plot.jpg"/>
 
-__Decision Tree Regression:__ Looks like a decision tree regressor is not performing as well as the other models we have tested earlier. While a decision tree regressor is a complex model capable of capturing important distinctions and insights, it was unable to perform optimally. Therefore, we should not always be relying on a few set of models for all the machine learning tasks as it would really depend on the dataset used for making the predictions. 
+__Decision Tree Regression:__ Despite its capability to capture important distinctions and insights, the decision tree regressor did not exhibit the same level of performance as the other models we previously tested. This highlights the importance of not relying solely on a limited set of models for all machine learning tasks, as the effectiveness of a model often depends on the specific dataset used for prediction.
 
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/Decision%20tree%20regression%20plot.jpg"/>
 
-__Gradient Boosted Decision Tree Regression:__ This method does not work as well as the other models we have seen so far. The best performing model was the neural network architecture as it was better able to make predictions about the text difficulty. 
+__Gradient Boosted Decision Tree Regression:__ Among the models we have examined, this method demonstrates inferior performance compared to the others. The neural network architecture stands out as the top performer, exhibiting a greater capability to accurately predict text difficulty.
 
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/Gradient%20boosted%20decision%20tree%20plot.jpg"/>
 
-We have chosen the neural network archicture we defined earlier as it was able to perform optimally. In addition, we used different encoding techniques for the text which is word2vec approach. Below is a graph that shows the mean squared error and how it reduces as a result of epochs run on the neural network. The model seems to be slightly overfitting but it is doing a decent job. 
+After careful evaluation, we have selected the neural network architecture we previously defined due to its exceptional performance. Moreover, we employed the word2vec approach for text encoding. A graph depicting the mean squared error demonstrates a gradual reduction with each epoch executed on the neural network. Although there is a slight indication of overfitting, overall, the model is delivering satisfactory results.
 
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/Neural%20network%20word%20to%20vec%20loss%20plot.jpg"/>
 
-Here is a similar graph but the main difference is that it uses the TFIDF word2vec approach instead of just the word2vec. It has better performance overall as compared to just using word2vec as highlighted in the graph. 
+Presented below is a comparable graph illustrating the performance of a model utilizing the TFIDF word2vec approach, which differs from the previous graph that solely employed word2vec. Notably, the TFIDF word2vec approach demonstrates superior overall performance, as evidenced by the graph. The improved results indicate that incorporating TFIDF enhances the model's predictive capabilities.
 
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/Neural%20network%20tfidf%20loss%20plot.jpg"/>
 
-These are the final predictions of the best model under the best encoding strategies for the text. Overall, there is a less scatter between the predictions and the actual data, indicating a good performance increase compared to the base models. 
+The final predictions obtained from the best model, utilizing the optimal encoding strategies for the text, exhibit reduced scatter when compared to the actual data. This indicates a substantial improvement in performance compared to the baseline models. The tighter alignment between predictions and actual data highlights the effectiveness of the chosen model and encoding strategies.
 
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/Neural%20network%20predictions%20last.jpg"/>
 
