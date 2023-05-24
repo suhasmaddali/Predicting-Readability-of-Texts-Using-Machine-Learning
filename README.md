@@ -63,7 +63,7 @@ Examining the scatterplot depicting the relationship between the target variable
 
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/scatterplot%20sentences%20target.jpg"/>
 
-Taking a look at two features preprocessed_essay_length and num_of_lemmas, there seems to be a strong correlation between these features. There is an evidence of strong positive correlation when we also consider the heatmap presented above. 
+Upon analyzing the preprocessed_essay_length and num_of_lemmas features, a robust correlation between them becomes evident. This strong positive correlation is further supported by the heatmap displayed earlier, reinforcing the relationship between these two features.
 
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/scatterplot%20essay_length%20num_of_lemmas.jpg"/>
 
