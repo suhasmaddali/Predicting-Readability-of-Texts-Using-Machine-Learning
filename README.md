@@ -83,7 +83,7 @@ To assess the model's performance on the test data, we will generate graphs that
 
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/K%20neighbors%20regression%20predictions.jpg"/>
 
-__PLS Regression:__ The approach utilized here is Partial Least Squares (PLS) regression, which combines principal component analysis (PCA) with multiple linear regression to make predictions. The performance of this model closely resembles that of neural networks. Nevertheless, when compared to neural networks, there is a slightly higher level of variability in the results obtained using this approach.
+[__PLS Regression:__](https://scikit-learn.org/stable/modules/generated/sklearn.cross_decomposition.PLSRegression.html) The approach utilized here is Partial Least Squares (PLS) regression, which combines principal component analysis (PCA) with multiple linear regression to make predictions. The performance of this model closely resembles that of neural networks. Nevertheless, when compared to neural networks, there is a slightly higher level of variability in the results obtained using this approach.
 
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/PLS%20regression%20plot.jpg"/>
 
