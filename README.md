@@ -43,7 +43,7 @@ In the dataset, we have identified some missing values in the features "url_lega
 
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/Data%20missing%20values%20plot.jpg"/>
 
-The histogram shows the distribution of output target values which are nothing but the difficulty scores. Since the difficulty scores are normalized, we have output in the form of floating point numbers. This shows the overall concentration of various difficulty scores across a range of values. 
+The histogram illustrates the distribution of difficulty scores, which are represented as normalized floating-point numbers. It provides an overview of how the different difficulty scores are spread across a range of values, indicating the overall concentration or frequency of each score.
 
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/Target%20output%20histogram%202.jpg"/>
 
