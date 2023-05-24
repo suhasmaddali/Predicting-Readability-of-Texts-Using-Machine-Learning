@@ -87,11 +87,11 @@ To assess the model's performance on the test data, we will generate graphs that
 
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/PLS%20regression%20plot.jpg"/>
 
-__Decision Tree Regression:__ Despite its capability to capture important distinctions and insights, the decision tree regressor did not exhibit the same level of performance as the other models we previously tested. This highlights the importance of not relying solely on a limited set of models for all machine learning tasks, as the effectiveness of a model often depends on the specific dataset used for prediction.
+[__Decision Tree Regression:__](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeRegressor.html) Despite its capability to capture important distinctions and insights, the decision tree regressor did not exhibit the same level of performance as the other models we previously tested. This highlights the importance of not relying solely on a limited set of models for all machine learning tasks, as the effectiveness of a model often depends on the specific dataset used for prediction.
 
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/Decision%20tree%20regression%20plot.jpg"/>
 
-__Gradient Boosted Decision Tree Regression:__ Among the models we have examined, this method demonstrates inferior performance compared to the others. The neural network architecture stands out as the top performer, exhibiting a greater capability to accurately predict text difficulty.
+[__Gradient Boosted Decision Tree Regression:__](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingRegressor.html) Among the models we have examined, this method demonstrates inferior performance compared to the others. The neural network architecture stands out as the top performer, exhibiting a greater capability to accurately predict text difficulty.
 
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/Gradient%20boosted%20decision%20tree%20plot.jpg"/>
 
