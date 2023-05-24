@@ -128,11 +128,11 @@ The final predictions obtained from the best model, utilizing the optimal encodi
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/Neural%20network%20predictions%20last.jpg"/>
 
 ## Outcomes
-* __TFIDF Word2Vec__ Vectorizer was the best encoding technique which results in a significant reduction in the __mean absolute error__ respectively. 
-* __Gradient Boosted Decision Trees (GBDT)__ were performing the best in terms of the __mean absolute__ and __mean squared error__ of predicting the difficulty of texts.
+* __TFIDF Word2Vec__ Vectorizer was the best encoding technique which results in a significant reduction in the __mean absolute error__ and __mean squared error__ respectively. 
+* __Gradient Boosted Decision Trees (GBDT)__ and __Deep Neural Networks__ were performing the best in terms of the __mean absolute__ and __mean squared error__ of predicting the difficulty of texts.
 
 ## Future Scope 
-* The best model (__Gradient Boosted Decision Trees__) could be integrated in real-time in Office tools such as __Microsoft Word__ and __Microsoft Presentation__ so that a user can get an indication of the difficulty of his/her sentences.
+* The best model (__Deep Neural Networks__) could be integrated in real-time in Office tools such as __Microsoft Word__ and __Microsoft Presentation__ so that a user can get an indication of the difficulty of his/her sentences.
 * Additional text information could be added from other sources such as __Wikipedia__ to further reduce the __mean absolute error__ of the models.  
 
 ## 👉 Directions to download the repository and run the notebook 
