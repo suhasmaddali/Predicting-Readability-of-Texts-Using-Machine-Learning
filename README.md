@@ -47,7 +47,7 @@ The histogram illustrates the distribution of difficulty scores, which are repre
 
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/Target%20output%20histogram%202.jpg"/>
 
-Wordcloud figures give a solid representation of the occurrence of various words in the entire text corpus. The size of the words indicate the occurrence of the words. In our corpus, we find words such as "one", "time" and "said" to the most frequently occurring words. This is expected usually as authors tend to use "said" to denote that someone spoke about something in the novel or a book. 
+Wordcloud figures visually depict the prevalence of different words within a text corpus, with word size indicating their frequency of occurrence. In our specific corpus, we observe that common words like "one," "time," and "said" emerge as the most frequently used. This outcome is typically anticipated, as authors often employ the word "said" to attribute dialogue or conversations in novels or books.
 
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/Word%20distribution%20wordcloud.jpg"/>
 
