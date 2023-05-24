@@ -67,7 +67,7 @@ Upon analyzing the preprocessed_essay_length and num_of_lemmas features, a robus
 
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/scatterplot%20essay_length%20num_of_lemmas.jpg"/>
 
-There seems to be a direct positive relationship between the feature text_shortage and word_length. This highlights that having higher length words leads to shortened form of words when applying strategies such as lemmatization and stemming. 
+The feature text_shortage exhibits a direct positive relationship with word_length. This observation suggests that longer words often undergo a reduction or shortening process, such as lemmatization or stemming, resulting in the creation of shorter word forms.
 
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/scatterplot%20text_shortage%20word_length.jpg"/>
 
