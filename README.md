@@ -59,7 +59,7 @@ Heatmaps are renowned for their ability to provide clear insights into the corre
 
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/heatmap%20correlation.jpg"/>
 
-Further taking a look at the scatterplot between target and the number of sentences, it is evident to a certain extent that the number of sentences have a positive relationship with text difficulty. While not have a strong correlation, it can have some impact on our model predictions. 
+Examining the scatterplot depicting the relationship between the target variable and the number of sentences, we observe a discernible, albeit moderate, positive association. This suggests that the number of sentences in a text has a certain degree of influence on its difficulty. Although the correlation is not particularly strong, it can still contribute to the predictive performance of our models.
 
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/scatterplot%20sentences%20target.jpg"/>
 
