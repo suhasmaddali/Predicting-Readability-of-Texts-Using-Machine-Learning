@@ -75,7 +75,7 @@ The feature text_shortage exhibits a direct positive relationship with word_leng
 
 To assess the model's performance on the test data, we will generate graphs that illustrate the relationship between the model's predictions and the true labels. These visual representations offer valuable insights into the model's accuracy. If the points on the graph form a relatively straight line, it indicates that the model performed exceptionally well, effectively capturing patterns within the data. Conversely, if the points appear scattered and lack alignment, it signifies that the model encountered challenges in discerning clear patterns, resulting in less accurate predictions.
 
-__Neural Networks:__ These models should be able to find complex patterns from the data and highlight some important features that have predictive power. We tend to see that the model does a recent job of accurately predicting the difficulty of text. However, there are some predictions that are way higher or lower than the expected values. We might also test alternate models to determine the accuracy. 
+__Neural Networks:__ Neural network models are capable of extracting intricate patterns from the data and identifying significant features with predictive potential. Generally, these models exhibit commendable performance in accurately predicting the difficulty of text. However, there are instances where the predictions deviate significantly from the expected values, either overestimating or underestimating the difficulty. To ensure the accuracy of our predictions, we may explore alternative models and conduct thorough testing.
 
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/Neural%20network%20predictions.jpg"/>
 
