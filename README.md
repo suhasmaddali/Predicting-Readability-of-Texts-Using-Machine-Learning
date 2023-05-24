@@ -91,7 +91,7 @@ The feature text_shortage exhibits a direct positive relationship with word_leng
 
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/scatterplot%20text_shortage%20word_length.jpg"/>
 
-### Machine Learning Model Predictions
+## Results
 
 To assess the model's performance on the test data, we will generate graphs that illustrate the relationship between the model's predictions and the true labels. These visual representations offer valuable insights into the model's accuracy. If the points on the graph form a relatively straight line, it indicates that the model performed exceptionally well, effectively capturing patterns within the data. Conversely, if the points appear scattered and lack alignment, it signifies that the model encountered challenges in discerning clear patterns, resulting in less accurate predictions.
 
