@@ -79,7 +79,7 @@ To assess the model's performance on the test data, we will generate graphs that
 
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/Neural%20network%20predictions.jpg"/>
 
-__K Neighbors Regression:__ This model relies on the previously defined total neighbors to accomplish the regression task of predicting text difficulty. However, there is a higher degree of dispersion compared to the neural networks we have previously trained and established.
+[__K Neighbors Regression:__](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsRegressor.html) This model relies on the previously defined total neighbors to accomplish the regression task of predicting text difficulty. However, there is a higher degree of dispersion compared to the neural networks we have previously trained and established.
 
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/K%20neighbors%20regression%20predictions.jpg"/>
 
