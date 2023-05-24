@@ -55,7 +55,7 @@ By incorporating a valuable set of features, we have successfully enhanced the p
 
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/New%20features%20pairplot.jpg"/>
 
-Heatmaps are known for their interpretability and can give us a good picture about the correlation between various features in our data. There is an inverse relationship between word length and target. Similarly, there is similar kind of relationship between lemma length and target as well. As discussed earlier, there is a direct relationship between the number of sentences and the difficulty of texts. 
+Heatmaps are renowned for their ability to provide clear insights into the correlation among different features in our dataset. Notably, we observe an inverse relationship between word length and the target variable, indicating that shorter words tend to correspond to higher difficulty scores. Similarly, there is a similar inverse relationship between lemma length and the target variable. Furthermore, as previously discussed, the number of sentences exhibits a direct relationship with the difficulty of texts, emphasizing that a higher sentence count often signifies increased difficulty.
 
 <img src = "https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning/blob/main/images/heatmap%20correlation.jpg"/>
 
